@@ -1,1 +1,1 @@
-"# TdSequential" 
+TD Sequential Pinescript for TradingView
